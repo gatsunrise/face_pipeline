@@ -1,0 +1,10 @@
+{
+    "0": {"name": "gabriel",
+    "face_data": "face_data/gabriel.npy",
+    "allowed_locations": ["dhd", "dfc"]
+},
+    "1": {"name": "juliane",
+    "face_data": "face_data/juliane.npy",
+    "allowed_locations": ["dhd"]
+    }
+}
